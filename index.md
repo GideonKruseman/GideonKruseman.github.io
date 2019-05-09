@@ -2,11 +2,11 @@
 
 As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it is imperative to make sure that things are actually usable.
 
-You can use the [editor on GitHub](https://github.com/GideonKruseman/GideonKruseman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## At a glace
+[## Metadata schema] 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Metadata schema
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
