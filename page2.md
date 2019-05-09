@@ -1,18 +1,18 @@
 # Technical Documentation OIMS Beta 1.1.1
 
 {<br>
-  “Title”:”Technical documentation OIMS Beta 1.1.1”,<br>
-  “version”:1<br>
-  “Start Date”:	“May 7,2019”,<br>
-  “End Date”:	“”,<br>
-  “State”: “under development”,<br>
-  “Author”: [<br>
-	  {<br>
-	  	“AuthorName”:”Kruseman, Gideon”,<br>
-  		“AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,<br>
-  		“AuthorEmail”: “g.kruseman@cgiar.org”<br>
-  	}<br>
-  ]<br>
+    “Title”:”Technical documentation OIMS Beta 1.1.1”,<br>
+    “version”:1<br>
+    “Start Date”:	“May 7,2019”,<br>
+    “End Date”:	“”,<br>
+    “State”: “under development”,<br>
+    “Author”: [<br>
+        {<br>
+            “AuthorName”:”Kruseman, Gideon”,<br>
+            “AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,<br>
+	    “AuthorEmail”: “g.kruseman@cgiar.org”<br>
+	    }<br>
+    ]<br>
 }<br>
 
 
@@ -72,34 +72,34 @@ Technical aspect metadata<br>
 
  
 ## 3.	Metadata schemas for describing metadata schemas
-In order to describe a metadata schema we need a format for doing so.
-Each metadata field can be described with the following elements
-•	AttributeName: the identifier of the metadata field
-•	AttributeDescription: A short description of what the metadata field entails
-•	DataType: the data type of the contents of the metadata field
-•	Format: if applicable a specific format of the metadata field
-•	Status: determine if a field is: required; recommended; required if applicable; recommended if applicable; optional
-•	TypeClass: identification if a metadata field consists of multiple attributes or is the attribute sufficiently granular
-•	Multiple: does a metadata field allow multiple entries or not
-•	OntologyTerm: attribute value identifier
-	o	OntologyTermName: ontology term human readable
-	o	OntologyTermDescription: 
-	o	OntologyName
-	o	OntologyTermID
-	o	OntologyTermURL
-	o	OntologyTermQuality
+In order to describe a metadata schema we need a format for doing so.<br>
+Each metadata field can be described with the following elements<br>
++  AttributeName: the identifier of the metadata field<br>
++  AttributeDescription: A short description of what the metadata field entails<br>
++  DataType: the data type of the contents of the metadata field<br>
++  Format: if applicable a specific format of the metadata field<br>
++  Status: determine if a field is: required; recommended; required if applicable; recommended if applicable; optional<br>
++  TypeClass: identification if a metadata field consists of multiple attributes or is the attribute sufficiently granular<br>
++  Multiple: does a metadata field allow multiple entries or not<br>
++  OntologyTerm: attribute value identifier<br>
+   -  OntologyTermName: ontology term human readable<br>
+   -  OntologyTermDescription: <br>
+   -  OntologyName<br>
+   -  OntologyTermID<br>
+   -  OntologyTermURL<br>
+   -  OntologyTermQuality<br>
 
-If the data type is enumeration, then there is a controlled vocabulary linked to that field
-•	ControledVocabulary: description of the controlled vocabulary
-	o	VocabularyElementID: element identifier
-	o	VocabularyElementDescription: description of the element
-	o	OntologyTerm: element identifier
-			OntologyTermName: ontology term human readable
-			OntologyTermDescription: 
-			OntologyName
-			OntologyTermID
-			OntologyTermURL
-			OntologyTermQuality
+If the data type is enumeration, then there is a controlled vocabulary linked to that field<br>
++  ControledVocabulary: description of the controlled vocabulary<br>
+   -  VocabularyElementID: element identifier<br>
+   -  VocabularyElementDescription: description of the element<br>
+   -  OntologyTerm: element identifier<br>
+      =  OntologyTermName: ontology term human readable<br>
+      =  OntologyTermDescription: <br>
+      =  OntologyName<br>
+      =  OntologyTermID<br>
+      =  OntologyTermURL<br>
+      =  OntologyTermQuality<br>
 
 
 We can therefore describe the elements of the metadata-metadata in the same terms as well, albeit that these may contain different elements depending on the schema. In the end we can describe the elements of the metadata-metadata-metadata in terms of themselves which then becomes the basis for the description of any metadata schema.  
@@ -112,23 +112,23 @@ In addition to the 9 major attributes and the 8 attribute attributes there is on
 We use the metadata attributes to describe the most essential metadata attributes mentioned at the beginning of the Chapter. This is a metadata schema that describes itself only. It can be used as a basis for any other metadata schema.
 https://github.com/GideonKruseman/CGIAR_BigData_metadata_schema/blob/master/MetaDataMetaDataStructureOIMSversionBeta1_1.json
 It covers the following attributes, the only special one is comment because it is not necessary for the schema to be machine readable. We are staunch believers of documenting code and this allows us to document the code.
-•	Comment
-•	AttributeName
-•	AttributeDescription
-•	Status
-•	TypeClass
-•	Multiple
-•	DataType
-•	ControlledVocabulary
-•	VocabuaryElementName
-•	VocabularyElementDescription
-•	OntologyTerm
-•	OntologyTermName
-•	OntologyTermDescription
-•	OntologyTermID
-•	OntologyTermURL
-•	OntologyTermQuality
-•	AttributeValueElements
+Comment
++  AttributeName
++  AttributeDescription
++  Status
++  TypeClass
++  Multiple
++  DataType
++  ControlledVocabulary
++  VocabuaryElementName
++  VocabularyElementDescription
++  OntologyTerm
++  OntologyTermName
++  OntologyTermDescription
++  OntologyTermID
++  OntologyTermURL
++  OntologyTermQuality
++  AttributeValueElements
 
 ### 3.2.	Intermediate level of abstraction metadata schema 
 Using the high level of abstraction metadata-schema it is possible to describe an intermediate level metadata schema. Usually, this will contain all the same elements of the high abstract schema plus any other attributes used to describe the actual metadata schema attributes. Remember that the high level of abstraction metadata schema only describes itself so there are certain elements that it cannot describe, for instance data types that are not used in the metadata-metadata of the metadata structure. 
