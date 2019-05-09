@@ -1,12 +1,16 @@
-# Welcome to Gideon Kruseman's code pages
+# Managing the data lake
 
-As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it is imperative to make sure that things are actually usable.
+As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it is imperative to make sure that things are actually usable. Key concept for making that possible is the [data lake](https://www.cimmyt.org/blogs/big-data-for-development-research/). 
 
 ## At a glace
-[Metadata schema](https://gideonkruseman.github.io/#Metadataschema) 
+[OIMS Metadata schema](https://gideonkruseman.github.io/#OIMS-Metadata-schema) 
+[ETL-procedures](https://gideonkruseman.github.io/#ETL-procedures) 
+
+## OIMS Metadata schema
 
 
-## Metadata schema
+## ETL procedures
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
