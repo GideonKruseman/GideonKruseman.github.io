@@ -1,18 +1,18 @@
 # Technical Documentation OIMS Beta 1.1.1
 
 {<br>
-...“Title”:”Technical documentation OIMS Beta 1.1.1”,<br>
-...“version”:1<br>
-...“Start Date”:“May 7,2019”,<br>
-...“End Date”:“”,<br>
-...“State”: “under development”,<br>
-...“Author”: [<br>
-......{<br>
-.........“AuthorName”:”Kruseman, Gideon”,<br>
-.........“AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,<br>
-.........“AuthorEmail”: “g.kruseman@cgiar.org”<br>
-......}<br>
-...]<br>
+    “Title”:”Technical documentation OIMS Beta 1.1.1”,<br>
+    “version”:1<br>
+    “Start Date”:“May 7,2019”,<br>
+    “End Date”:“”,<br>
+    “State”: “under development”,<br>
+    “Author”: [<br>
+        {<br>
+            “AuthorName”:”Kruseman, Gideon”,<br>
+            “AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,<br>
+            “AuthorEmail”: “g.kruseman@cgiar.org”<br>
+        }<br>
+    ]<br>
 }<br>
 
 
