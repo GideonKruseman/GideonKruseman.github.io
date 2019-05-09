@@ -1,6 +1,7 @@
-[![CIMMYT](https://www.logolynx.com/images/logolynx/cf/cf14c764d6ef4df851292c2ac93b5e97.png)](https://www.cimmyt.org/)
-
 # Managing the data lake
+[![CIMMYT](https://www.logolynx.com/images/logolynx/cf/cf14c764d6ef4df851292c2ac93b5e97.png)](https://www.cimmyt.org/)
+[![BDP](https://bigdata.cgiar.org/wp-content/uploads/2017/06/CGIAR_PforBD-Orange-logo220.png)](https://bigdata.cgiar.org/)
+
 
 As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it is imperative to make sure that things are actually usable. Key concept for making that possible is the [data lake](https://www.cimmyt.org/blogs/big-data-for-development-research/). 
 
