@@ -9,9 +9,9 @@ As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it 
 This webpage provides links to the technical implementation of methods to navigate the data lake, the bait you need to fish for data in the lake and the appropriate gear to do.
 
 ## At a glace
-[OIMS Metadata schema](OIMS-Metadata-schema) 
+[OIMS Metadata schema](#OIMS-Metadata-schema) 
 
-[ETL-procedures](ETL-procedures) 
+[ETL-procedures](#ETL-procedures) 
 
 ## OIMS Metadata schema
 The key for manging the data lake is good metadata. However for that metadata to be useable it needs to be interoperable and machine-actionable. At the same time it needs to be human-readable, otherwise no one will be able to use it. We have been developing a metadata schema to do just that. OPIMS is a human-readable, machine-actionable flexible and extensible, ontology-independent metadata schema focused on making messy socio-economic data FAIRER. FAIRER stands for *F*indable, *A*ccessible, *I*nteroperable, *R*eusable, *E*thical and responsible, *R*eproducible guidelines for data. It builds on the [FAIR data guidelines](https://www.nature.com/articles/sdata201618), but takes it further.
