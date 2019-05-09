@@ -3,7 +3,7 @@
 As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it is imperative to make sure that things are actually usable.
 
 ## At a glace
-[## Metadata schema] 
+[#Metadata schema] 
 
 
 ## Metadata schema
