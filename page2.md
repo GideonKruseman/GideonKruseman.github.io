@@ -1,20 +1,27 @@
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+ .tab2 { margin-left: 80px; }
+ .tab3 { margin-left: 120px; }
+ .tab4 { margin-left: 160px; }
+-->
+</style>
 # Technical Documentation OIMS Beta 1.1.1
-<p>
 {<br>
-->    “Title”:”Technical documentation OIMS Beta 1.1.1”,<br>
-->    “version”:1<br>
-    “Start Date”:“May 7,2019”,<br>
-    “End Date”:“”,<br>
-    “State”: “under development”,<br>
-    “Author”: [<br>
-        {<br>
-            “AuthorName”:”Kruseman, Gideon”,<br>
-            “AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,<br>
-            “AuthorEmail”: “g.kruseman@cgiar.org”<br>
-        }<br>
-    ]<br>
+<p class="tab">    “Title”:”Technical documentation OIMS Beta 1.1.1”,</p>
+<p class="tab">    “version”:1</p>
+<p class="tab">    “Start Date”:“May 7,2019”,</p>
+<p class="tab">    “End Date”:“”,<br>
+<p class="tab">    “State”: “under development”,</p>
+<p class="tab">    “Author”: [</p>
+<p class="tab2">        {</p>
+<p class="tab3">            “AuthorName”:”Kruseman, Gideon”,</p>
+<p class="tab3">            “AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,</p>
+<p class="tab3">            “AuthorEmail”: “g.kruseman@cgiar.org”</p>
+<p class="tab2">        }</p>
+<p class="tab">    ]</p>
 }<br>
-</p>
+
 
 
 ## 1.	Introduction
