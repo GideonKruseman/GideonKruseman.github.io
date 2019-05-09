@@ -26,14 +26,19 @@
 
 ## Table of contents
 
-[1.	Introduction](1.-Introduction)
+[1.	Introduction](1Introduction)
 
-[1.1.	The choice of JSON](1.1-The-choice-of-JSON)
+[1.1.	The choice of JSON](11The-choice-of-JSON)
 
-[1.2.	FAIRER data standards](1.2.-FAIRER-data-standards)
+[1.2.	FAIRER data standards](12FAIRER-data-standards)
 
-[1.3.	Data entities](1.3.-Data-entities)
+[1.3.	Data entities](13Data-entities)
 
+[2.	Metadata for making data FAIRER](2Metadata-for-making-data-FAIRER)
+
+[3.	Metadata schemas for describing metadata schemas](3Metadata-schemas-for-describing-metadata-schemas)
+
+[4.	Data entity linkages metadata](4Data-entity-linkages-metadata)
 
 ## 1.	Introduction
 Open data era and the CGIAR Platform mission to harness the capabilities of big data to accelerate and enhance the impact of international agricultural research for development. The data is there but is very often underutilized, because the data is not interoperable or reusable. 
