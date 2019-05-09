@@ -1,5 +1,6 @@
 # Managing the data lake
 [![CIMMYT](https://www.logolynx.com/images/logolynx/cf/cf14c764d6ef4df851292c2ac93b5e97.png)](https://www.cimmyt.org/)
+[![CopSED](https://bigdata.cgiar.org/wp-content/uploads/2018/12/SOCIO-ECONOMIC-DATA_Big-Data-Icon-280px.png)](https://bigdata.cgiar.org/communities-of-practice/socio-economic-data/)
 [![BDP](https://bigdata.cgiar.org/wp-content/uploads/2017/06/CGIAR_PforBD-Orange-logo220.png)](https://bigdata.cgiar.org/)
 
 
