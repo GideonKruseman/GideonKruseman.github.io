@@ -43,9 +43,9 @@ The notion of data entities is based on the fact that what we understand by data
 
 Community of practice lead
 
-Community oif Practice on Socio-economic data
+[Community of Practice on Socio-economic data](https://bigdata.cgiar.org/communities-of-practice/socio-economic-data/)
 
-CGIAR Platform for Big Data in Agriculture
+[CGIAR Platform for Big Data in Agriculture](https://bigdata.cgiar.org/)
 
 [email](mailto:g.kruseman@cgiar.org)
 
