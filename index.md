@@ -29,9 +29,10 @@ The notion of data entities is based on the fact that what we understand by data
 ### OIMS core: metadata schema that describes itself
 
 
-### the link with ontologies
+### The link with ontologies
 
-
+### Further info
+[Technical documentation](/page2) of the OIMS metadata schema version 1.1.1.
 
 ## ETL procedures
 *E*xtract, *T*ransform and *L*oad procedures are at the core of making data stored in a lake reusable. Actually ETL proceduresare every where. We use them at the back-end and at the front-end
