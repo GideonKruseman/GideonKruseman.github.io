@@ -1,4 +1,4 @@
-![CIMMYT](https://www.logolynx.com/images/logolynx/cf/cf14c764d6ef4df851292c2ac93b5e97.png)(https://www.cimmyt.org/)
+[![CIMMYT](https://www.logolynx.com/images/logolynx/cf/cf14c764d6ef4df851292c2ac93b5e97.png)](https://www.cimmyt.org/)
 
 # Managing the data lake
 
