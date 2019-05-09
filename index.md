@@ -37,13 +37,21 @@ The notion of data entities is based on the fact that what we understand by data
 *E*xtract, *T*ransform and *L*oad procedures are at the core of making data stored in a lake reusable. Actually ETL proceduresare every where. We use them at the back-end and at the front-end
 
 ## Contact
-![Gideon](https://gallery.mailchimp.com/59a7500ef5c94dd50e2b9e2fb/images/7519ddc6-0c01-4d8c-b437-9c82670cd75a.png) **Gideon Kruseman**
+![Gideon](https://gallery.mailchimp.com/59a7500ef5c94dd50e2b9e2fb/images/7519ddc6-0c01-4d8c-b437-9c82670cd75a.png) 
+
+**Gideon Kruseman**
+
 Community of practice lead
+
 Community oif Practice on Socio-economic data
+
 CGIAR Platform for Big Data in Agriculture
+
 [email](mailto:g.kruseman@cgiar.org)
 
+
 **CoP SED secretariat**
+
 [email](mailto:cgiar.cop.sed@gmail.com)
 
 
