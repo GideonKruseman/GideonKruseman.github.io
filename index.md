@@ -1,3 +1,5 @@
+![CIMMYT](https://www.logolynx.com/images/logolynx/cf/cf14c764d6ef4df851292c2ac93b5e97.png)
+
 # Managing the data lake
 
 As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it is imperative to make sure that things are actually usable. Key concept for making that possible is the [data lake](https://www.cimmyt.org/blogs/big-data-for-development-research/). 
@@ -13,6 +15,13 @@ As a staunch believer in **Open Access**, **Open Data**, and **Open Source** it 
 ## ETL procedures
 
 
+##
+
+
+
+
+
+# info on markup language
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
