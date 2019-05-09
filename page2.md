@@ -3,13 +3,13 @@
 
 ## Table of contents
 
-[1.	Introduction](#1Introduction)
+[1.	Introduction](#1introduction)
 
-[2.	Metadata for making data FAIRER](#2Metadata-for-making-data-FAIRER)
+[2.	Metadata for making data FAIRER](#2metadata-for-making-data-fairer)
 
-[3.	Metadata schemas for describing metadata schemas](#3Metadata-schemas-for-describing-metadata-schemas)
+[3.	Metadata schemas for describing metadata schemas](#3metadata-schemas-for-describing-metadata-schemas)
 
-[4.	Data entity linkages metadata](#4Data-entity-linkages-metadata)
+[4.	Data entity linkages metadata](#4data-entity-linkages-metadata)
 
 ## 1.	Introduction
 Open data era and the CGIAR Platform mission to harness the capabilities of big data to accelerate and enhance the impact of international agricultural research for development. The data is there but is very often underutilized, because the data is not interoperable or reusable. 
