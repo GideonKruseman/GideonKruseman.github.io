@@ -23,7 +23,11 @@
 }<br>
 <br>
 <br>
-[ToC]
+## Table of contents
+[1.	Introduction](1.-Introduction)
+[1.1.	The choice of JSON](1.1-The-choice-of-JSON)
+[1.2.	FAIRER data standards](1.2.-FAIRER-data-standards)
+[1.3.	Data entities](1.3.-Data-entities)
 
 
 ## 1.	Introduction
