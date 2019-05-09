@@ -1,19 +1,19 @@
 # Technical Documentation OIMS Beta 1.1.1
 
 {<br>
-  “Title”:”Technical documentation OIMS Beta 1.1.1”,
-  “version”:1
-  “Start Date”:	“May 7,2019”,
-  “End Date”:	“”,
-  “State”: “under development”,
-  “Author”: [
-	  {
-	  	“AuthorName”:”Kruseman, Gideon”,
-  		“AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,
-  		“AuthorEmail”: “g.kruseman@cgiar.org”
-  	}
-  ]
-}
+  “Title”:”Technical documentation OIMS Beta 1.1.1”,<br>
+  “version”:1<br>
+  “Start Date”:	“May 7,2019”,<br>
+  “End Date”:	“”,<br>
+  “State”: “under development”,<br>
+  “Author”: [<br>
+	  {<br>
+	  	“AuthorName”:”Kruseman, Gideon”,<br>
+  		“AuthorAffiliation”: “International Mazie and Wheat Improvement Center”,<br>
+  		“AuthorEmail”: “g.kruseman@cgiar.org”<br>
+  	}<br>
+  ]<br>
+}<br>
 
 
 
@@ -30,45 +30,45 @@ Why we choose JSON as our format.
 ### 1.2.	FAIRER data standards
 Key definitions:
 FAIRER
-Findable
-Accessible
-Interoperable
-Reusable
-Ethical or responsible
-Reproducible
+**F**indable<br>
+**A**ccessible<br>
+**I**nteroperable<br>
+**R**eusable<br>
+**E**thical or responsible<br>
+**R**eproducible<br>
 
 ### 1.3.	Data entities
-The notion of data entities is based on the fact that what we understand by data varies. At a high level of aggregation we have data collections or studies. These may have sub-collections. Within this concept we have data sets. Data sets are groupings of one or more files with a persistent identifier. The files are the tangible assets and within those files we can have things like tables, variables and records. It is clear that there is a hierarchy amongst the data entities. Not all entity types are relevant for each case we are describing. Moreover, we distinguish between primary secondary and metadata data entities. Primary data entities Are core data entities such as collections, data sets, data files, tables, variables. The secondary data entities are supporting documentation and information linked to a primary data entity. Any data entity can have metadata. In order to understand how these ata entities are related we need to document this in a standardized form
+The notion of data entities is based on the fact that what we understand by data varies. At a high level of aggregation we have data collections or studies. These may have sub-collections. Within this concept we have data sets. Data sets are groupings of one or more files with a persistent identifier. The files are the tangible assets and within those files we can have things like tables, variables and records. It is clear that there is a hierarchy amongst the data entities. Not all entity types are relevant for each case we are describing. Moreover, we distinguish between primary secondary and metadata data entities. Primary data entities Are core data entities such as collections, data sets, data files, tables, variables. The secondary data entities are supporting documentation and information linked to a primary data entity. Any data entity can have metadata. In order to understand how these ata entities are related we need to document this in a standardized form.
  
 ## 2.	Metadata for making data FAIRER
-The type of metadata provided with data entities depends critically on the data entity provider as well as on some key domain issues.
+The type of metadata provided with data entities depends critically on the data entity provider as well as on some key domain issues.<br>
 Example of machine data loss.
 
 ### 2.1.	Findable
 
-Descriptive aspect metadata 
-Technical aspect metadata
+Descriptive aspect metadata<br> 
+Technical aspect metadata<br>
 ### 2.2.	Accessible
-Descriptive aspect metadata 
-Technical aspect metadata
+Descriptive aspect metadata <br>
+Technical aspect metadata<br>
 
 ### 2.3.	Interoperable
-Descriptive aspect metadata 
-Technical aspect metadata
-Structural metadata
+Descriptive aspect metadata <br>
+Technical aspect metadata<br>
+Structural metadata<br>
 ### 2.4.	Reusable
-Descriptive aspect metadata 
-Technical aspect metadata
-Structural metadata
+Descriptive aspect metadata <br>
+Technical aspect metadata<br>
+Structural metadata<br>
 
 ### 2.5.	Ethical or Responsible
-Descriptive aspect metadata 
-Technical aspect metadata
-Structural metadata
+Descriptive aspect metadata <br>
+Technical aspect metadata<br>
+Structural metadata<br>
 
 ### 2.6.	Reproducible 
-Descriptive aspect metadata 
-Technical aspect metadata
+Descriptive aspect metadata <br>
+Technical aspect metadata<br>
 
  
 ## 3.	Metadata schemas for describing metadata schemas
@@ -82,24 +82,24 @@ Each metadata field can be described with the following elements
 •	TypeClass: identification if a metadata field consists of multiple attributes or is the attribute sufficiently granular
 •	Multiple: does a metadata field allow multiple entries or not
 •	OntologyTerm: attribute value identifier
-o	OntologyTermName: ontology term human readable
-o	OntologyTermDescription: 
-o	OntologyName
-o	OntologyTermID
-o	OntologyTermURL
-o	OntologyTermQuality
-•	
+	o	OntologyTermName: ontology term human readable
+	o	OntologyTermDescription: 
+	o	OntologyName
+	o	OntologyTermID
+	o	OntologyTermURL
+	o	OntologyTermQuality
+
 If the data type is enumeration, then there is a controlled vocabulary linked to that field
 •	ControledVocabulary: description of the controlled vocabulary
-o	VocabularyElementID: element identifier
-o	VocabularyElementDescription: description of the element
-o	OntologyTerm: element identifier
-	OntologyTermName: ontology term human readable
-	OntologyTermDescription: 
-	OntologyName
-	OntologyTermID
-	OntologyTermURL
-	OntologyTermQuality
+	o	VocabularyElementID: element identifier
+	o	VocabularyElementDescription: description of the element
+	o	OntologyTerm: element identifier
+			OntologyTermName: ontology term human readable
+			OntologyTermDescription: 
+			OntologyName
+			OntologyTermID
+			OntologyTermURL
+			OntologyTermQuality
 
 
 We can therefore describe the elements of the metadata-metadata in the same terms as well, albeit that these may contain different elements depending on the schema. In the end we can describe the elements of the metadata-metadata-metadata in terms of themselves which then becomes the basis for the description of any metadata schema.  
